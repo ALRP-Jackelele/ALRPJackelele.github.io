@@ -1,6 +1,7 @@
-## Welcome to Jackelele's Doxing Tutorial
+# Welcome to Jackelele's Doxing Tutorial
 
-You can use the [editor on GitHub](https://github.com/ALRP-Jackelele/ALRPJackelele.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Doxing
+Doxing is derived from Document Tracing. Doxing is tracing the information from internet resources about particular person.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
